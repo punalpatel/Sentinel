@@ -7,6 +7,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.alibaba.csp/sentinel-core.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:com.alibaba.csp%20AND%20a:sentinel-core)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Gitter](https://badges.gitter.im/alibaba/Sentinel.svg)](https://gitter.im/alibaba/Sentinel)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpunalpatel%2FSentinel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpunalpatel%2FSentinel?ref=badge_shield)
 
 ## Introduction
 
@@ -169,3 +170,7 @@ These are only part of the companies using Sentinel, for reference only. If you 
 ![金汇金融](https://res.jinhui365.com/r/images/logo2.png?v=1.527)
 ![闪电购](http://cdn.52shangou.com/shandianbang/official-source/3.1.1/build/images/logo.png)
 ![拼多多](http://cdn.pinduoduo.com/assets/img/pdd_logo_v3.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpunalpatel%2FSentinel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpunalpatel%2FSentinel?ref=badge_large)
